@@ -43,7 +43,7 @@ class MyClass {
 }
 ```
 
-### Types of Polymorphism in Java
+## Types of Polymorphism in Java
 
 There are two main types of polymorphism in Java:
 
