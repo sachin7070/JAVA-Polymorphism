@@ -51,7 +51,7 @@ Compile-time Polymorphism (Method Overloading): Method overloading allows a clas
 
 Runtime Polymorphism (Method Overriding): Method overriding occurs when a subclass provides a specific implementation of a method that is already defined in its superclass. The method to be executed is determined at runtime based on the actual object type.
 
-# Contents
+## Contents
 
 This repository includes:
 
@@ -59,15 +59,15 @@ Examples of compile-time and runtime polymorphism in Java.
 Explanation of method overloading and method overriding.
 Code snippets illustrating how to use polymorphism in Java programs.
 
-#Usage
+## Usage
 
 Feel free to explore the examples and code snippets provided in this repository to understand how polymorphism works in Java. You can run the Java programs locally on your machine using a Java Development Kit (JDK) and an Integrated Development Environment (IDE) such as IntelliJ IDEA, Eclipse, or NetBeans.
 
-#Contributing
+## Contributing
 
 Contributions to this repository are welcome! If you have any improvements, additional examples, or corrections to make, please feel free to open an issue or submit a pull request.
 
-#License
+## License
 
 This project is licensed under the MIT License. You are free to use the code and examples in this repository for educational or commercial purposes.
 
